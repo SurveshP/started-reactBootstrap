@@ -1,0 +1,77 @@
+[
+  {
+    "subCategoryId": "QWK6OD",
+    "subCategoryName": "Mobile Phones",
+    "categoryId": "U5RAYU"
+  },
+  {
+    "subCategoryId": "FC1935",
+    "subCategoryName": "Laptops",
+    "categoryId": "U5RAYU"
+  },
+  {
+    "subCategoryId": "SGYC7G",
+    "subCategoryName": "Televisions",
+    "categoryId": "U5RAYU"
+  },
+  {
+    "subCategoryId": "3G28NH",
+    "subCategoryName": "Men’s Wear",
+    "categoryId": "E0637V"
+  },
+  {
+    "subCategoryId": "LF85KX",
+    "subCategoryName": "Women’s Wear",
+    "categoryId": "E0637V"
+  },
+  {
+    "subCategoryId": "IZ6SCZ",
+    "subCategoryName": "Accessories",
+    "categoryId": "E0637V"
+  },
+  {
+    "subCategoryId": "7FXDGT",
+    "subCategoryName": "Fresh Produce",
+    "categoryId": "HC8UWD"
+  },
+  {
+    "subCategoryId": "Z8801I",
+    "subCategoryName": "Dairy Products",
+    "categoryId": "HC8UWD"
+  },
+  {
+    "subCategoryId": "3WPW0Z",
+    "subCategoryName": "Beverages",
+    "categoryId": "HC8UWD"
+  },
+  {
+    "subCategoryId": "EBINOO",
+    "subCategoryName": "Kitchen Appliances",
+    "categoryId": "0QVWPT"
+  },
+  {
+    "subCategoryId": "NAWHG9",
+    "subCategoryName": "Laundry Appliances",
+    "categoryId": "0QVWPT"
+  },
+  {
+    "subCategoryId": "4562FD",
+    "subCategoryName": "Air Conditioners",
+    "categoryId": "0QVWPT"
+  },
+  {
+    "subCategoryId": "TECGCB",
+    "subCategoryName": "Fiction",
+    "categoryId": "3H24H2"
+  },
+  {
+    "subCategoryId": "BAEGG1",
+    "subCategoryName": "Non-Fiction",
+    "categoryId": "3H24H2"
+  },
+  {
+    "subCategoryId": "8GBZC2",
+    "subCategoryName": "Academic",
+    "categoryId": "3H24H2"
+  }
+]

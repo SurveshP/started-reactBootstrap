@@ -1,0 +1,86 @@
+[
+  {
+    "userId": "TQTL3V",
+    "fullName": "Rahul Sharma",
+    "emailAdress": "rahul.sharma@example.com",
+    "contactNumber": "9876543210",
+    "password": "R@hul1234",
+    "address": "23, Green Avenue, New Delhi, India",
+    "userType": "seller",
+    "activeStatus": true,
+    "profileImage": "uploads\\users\\1735716884422-download.jpg",
+    "registrationDate": "2025-01-01T07:34:44.427Z"
+  },
+  {
+    "userId": "95CVUP",
+    "fullName": "Arjun Mehta",
+    "emailAdress": "arjun.mehta@example.com",
+    "contactNumber": "8765432109",
+    "password": "Arjun@5678",
+    "address": "45, Sunrise Apartments, Mumbai, India",
+    "userType": "customer",
+    "activeStatus": true,
+    "profileImage": "uploads\\users\\1735716927997-download (1).jpg",
+    "registrationDate": "2025-01-01T07:35:27.998Z"
+  },
+  {
+    "userId": "2V5CBO",
+    "fullName": "Karan Verma",
+    "emailAdress": "karan.verma@example.com",
+    "contactNumber": "7654321098",
+    "password": "K@ran$890",
+    "address": "12, Oakwood Street, Bangalore, India",
+    "userType": "customer",
+    "activeStatus": true,
+    "profileImage": "uploads\\users\\1735716967175-download (2).jpg",
+    "registrationDate": "2025-01-01T07:36:07.176Z"
+  },
+  {
+    "userId": "NBO3ML",
+    "fullName": "Priya Desai",
+    "emailAdress": "priya.desai@example.com",
+    "contactNumber": "6543210987",
+    "password": "Priya@1234",
+    "address": "78, Rose Garden, Ahmedabad, India",
+    "userType": "seller",
+    "activeStatus": true,
+    "profileImage": "uploads\\users\\1735717002493-images.jpg",
+    "registrationDate": "2025-01-01T07:36:42.494Z"
+  },
+  {
+    "userId": "WK8KCZ",
+    "fullName": "Neha Kapoor",
+    "emailAdress": "neha.kapoor@example.com",
+    "contactNumber": "5432109876",
+    "password": "Neha$6789",
+    "address": "56, Lily Lane, Chandigarh, India",
+    "userType": "customer",
+    "activeStatus": true,
+    "profileImage": "uploads\\users\\1735717040730-download (3).jpg",
+    "registrationDate": "2025-01-01T07:37:20.731Z"
+  },
+  {
+    "userId": "5RW02W",
+    "fullName": "suru",
+    "emailAdress": "abc@gmail.com",
+    "contactNumber": "5487123690",
+    "password": "$2b$10$GfQRO.8J07ovVhI0JrhIROkNwt1nQS89enP8hCr91YK/IPW2PDiUG",
+    "address": "adasdsad",
+    "userType": "customer",
+    "activeStatus": true,
+    "profileImage": "uploads\\users\\1736750178294-WhatsApp Image 2021-08-27 at 8.49.32 PM (1).jpeg",
+    "registrationDate": "2025-01-13T06:36:18.298Z"
+  },
+  {
+    "userId": "BZYRHE",
+    "fullName": "Mahesh",
+    "emailAdress": "Mahesh123@gmail.com",
+    "contactNumber": "4569873210",
+    "password": "$2b$10$S5LEdtsUY4HtsW7YXx9y/OjevrEK2gu4sgCL39YFrSLIjDUdGLVsK",
+    "address": "Hello Bhopal",
+    "userType": "seller",
+    "activeStatus": true,
+    "profileImage": "uploads\\users\\1736761682795-Snapchat-766965723.jpg",
+    "registrationDate": "2025-01-13T09:48:02.804Z"
+  }
+]

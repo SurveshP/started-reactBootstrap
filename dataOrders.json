@@ -1,0 +1,105 @@
+[
+  {
+    "orderId": 1736408068551,
+    "userId": "95CVUP",
+    "products": [
+      {
+        "productId": "4U572A",
+        "productName": "iPhone 14",
+        "price": "79999",
+        "quantity": 1,
+        "description": "Latest Apple smartphone with A16 Bionic chip, 5G, and advanced camera system.",
+        "productImage": "uploads\\products\\1735795897665-download (5).jpg"
+      }
+    ],
+    "totalAmount": 79999,
+    "shippingAddress": "Suru",
+    "paymentMethod": "Credit Card",
+    "oderStatus": "Pending",
+    "orderDate": "2025-01-09T07:34:28.551Z"
+  },
+  {
+    "orderId": 1736416783352,
+    "userId": "95CVUP",
+    "products": [
+      {
+        "productId": "4U572A",
+        "productName": "iPhone 14",
+        "price": "79999",
+        "quantity": 1,
+        "description": "Latest Apple smartphone with A16 Bionic chip, 5G, and advanced camera system.",
+        "productImage": "uploads\\products\\1735795897665-download (5).jpg"
+      }
+    ],
+    "totalAmount": 79999,
+    "shippingAddress": "12 Arera Colony",
+    "paymentMethod": "Credit Card",
+    "oderStatus": "Pending",
+    "orderDate": "2025-01-09T09:59:43.352Z"
+  },
+  {
+    "orderId": 1736671684561,
+    "userId": "95CVUP",
+    "products": [
+      {
+        "productId": "4U572A",
+        "productName": "iPhone 14",
+        "price": "79999",
+        "quantity": 1,
+        "description": "Latest Apple smartphone with A16 Bionic chip, 5G, and advanced camera system.",
+        "productImage": "uploads\\products\\1735795897665-download (5).jpg"
+      }
+    ],
+    "totalAmount": 79999,
+    "shippingAddress": "sadasd",
+    "paymentMethod": "Credit Card",
+    "oderStatus": "Pending",
+    "orderDate": "2025-01-12T08:48:04.561Z"
+  },
+  {
+    "orderId": 1736753057475,
+    "userId": "5RW02W",
+    "products": [
+      {
+        "productId": "HXFOIS",
+        "productName": "Zara Women’s Dress",
+        "price": "2999",
+        "quantity": 1,
+        "description": "Stylish floral dress perfect for casual outings.",
+        "productImage": "uploads\\products\\1735746555928-download (1).jpg"
+      }
+    ],
+    "totalAmount": 2999,
+    "shippingAddress": "indrapuri",
+    "paymentMethod": "Debit Card",
+    "orderStatus": "Pending",
+    "orderDate": "2025-01-13T07:24:17.475Z"
+  },
+  {
+    "orderId": 1736762353123,
+    "userId": "5RW02W",
+    "products": [
+      {
+        "productId": "6PUHN8",
+        "productName": "Amul Butter 500g",
+        "price": "245",
+        "quantity": 5,
+        "description": "Creamy and rich butter perfect for cooking and spreading.",
+        "productImage": "uploads\\products\\1735746942779-download (3).jpg"
+      },
+      {
+        "productId": "VPPPLO",
+        "productName": "LG Double Door Refrigerator",
+        "price": "25999",
+        "quantity": 2,
+        "description": "Energy-efficient fridge with smart cooling technology.",
+        "productImage": "uploads\\products\\1735747120069-download (6).jpg"
+      }
+    ],
+    "totalAmount": 53223,
+    "shippingAddress": "Ondrapuri Bhopal",
+    "paymentMethod": "Credit Card",
+    "orderStatus": "Pending",
+    "orderDate": "2025-01-13T09:59:13.123Z"
+  }
+]

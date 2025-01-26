@@ -1,0 +1,27 @@
+[
+  {
+    "categoryId": "E0637V",
+    "categoryName": "Fashion",
+    "categoryImage": "uploads\\categories\\1735717302612-download.jpg"
+  },
+  {
+    "categoryId": "HC8UWD",
+    "categoryName": "Groceries",
+    "categoryImage": "uploads\\categories\\1735717430930-download (1).jpg"
+  },
+  {
+    "categoryId": "0QVWPT",
+    "categoryName": "Home Appliances",
+    "categoryImage": "uploads\\categories\\1735717443759-download (2).jpg"
+  },
+  {
+    "categoryId": "3H24H2",
+    "categoryName": "Books",
+    "categoryImage": "uploads\\categories\\1735717453440-download (3).jpg"
+  },
+  {
+    "categoryId": "U5RAYU",
+    "categoryName": "Electronics",
+    "categoryImage": "uploads\\categories\\1735717519834-download (4).jpg"
+  }
+]

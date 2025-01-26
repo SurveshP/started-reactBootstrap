@@ -1,0 +1,57 @@
+[
+  {
+    "userId": "WK8KCZ",
+    "cart": [
+      {
+        "productId": "8QMN92",
+        "productName": "Nike Air Max Shoes",
+        "price": "8999",
+        "quantity": 2,
+        "description": "Comfortable and trendy sports shoes for running and casual wear.",
+        "productImage": "uploads\\products\\1735746592578-download (2).jpg"
+      },
+      {
+        "productId": "1FASCW",
+        "productName": "Samsung Smart TV 55",
+        "price": "45999",
+        "quantity": 1,
+        "description": "4K Ultra HD LED Smart TV with HDR10+ and Dolby Digital support.",
+        "productImage": "uploads\\products\\1735746452935-download.jpg"
+      }
+    ]
+  },
+  {
+    "userId": "95CVUP",
+    "cart": [
+      {
+        "productId": "4U572A",
+        "productName": "iPhone 14",
+        "price": "79999",
+        "quantity": 1,
+        "description": "Latest Apple smartphone with A16 Bionic chip, 5G, and advanced camera system.",
+        "productImage": "uploads\\products\\1735795897665-download (5).jpg"
+      }
+    ]
+  },
+  {
+    "userId": "5RW02W",
+    "cart": [
+      {
+        "productId": "6PUHN8",
+        "productName": "Amul Butter 500g",
+        "price": "245",
+        "quantity": 5,
+        "description": "Creamy and rich butter perfect for cooking and spreading.",
+        "productImage": "uploads\\products\\1735746942779-download (3).jpg"
+      },
+      {
+        "productId": "VPPPLO",
+        "productName": "LG Double Door Refrigerator",
+        "price": "25999",
+        "quantity": 2,
+        "description": "Energy-efficient fridge with smart cooling technology.",
+        "productImage": "uploads\\products\\1735747120069-download (6).jpg"
+      }
+    ]
+  }
+]
